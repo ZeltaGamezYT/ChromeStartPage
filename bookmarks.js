@@ -3,10 +3,10 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Outlook Inbox", url: "https://outlook.live.com/mail/0/" },
+      { name: "Inbox", url: "https://outlook.live.com/mail/0/" },
       { name: "GitHub", url: "https://github.com" },
       { name: "OneDrive", url: "https://onedrive.live.com" },
-      { name: "Microsoft 365", url: "https://microsoft365.com" },
+      { name: "Microsoft365", url: "https://microsoft365.com" },
     ],
   },
   {
@@ -15,10 +15,10 @@ const bookmarks = [
       { name: "YouTube", url: "https://youtube.com" },
       { name: "Netflix", url: "https://netflix.com" },
       {
-        name: "Amazon Prime",
+        name: "Amazon-Prime",
         url: "https://www.amazon.com/Amazon-Video",
       },
-      { name: "Apple Music", url: "https://music.apple.com" },
+      { name: "Apple-Music", url: "https://music.apple.com" },
       { name: "SoundCloud", url: "https://soundcloud.com" },
     ],
   },
@@ -26,9 +26,9 @@ const bookmarks = [
     title: "YouTube Channels",
     links: [
       { name: "LetsGameItOut", url: "https://www.youtube.com/@LetsGameItOut/featured" },
-      { name: "Mark Rober", url: "https://www.youtube.com/@MarkRober/featured" },
-      { name: "DIY Perks", url: "https://www.youtube.com/@DIYPerks/featured" },
-      { name: "Corridor Crew", url: "https://www.youtube.com/@CorridorCrew/featured" },
+      { name: "Mark-Rober", url: "https://www.youtube.com/@MarkRober/featured" },
+      { name: "DIY-Perks", url: "https://www.youtube.com/@DIYPerks/featured" },
+      { name: "Corridor-Crew", url: "https://www.youtube.com/@CorridorCrew/featured" },
       { name: "Knarfy", url: "https://www.youtube.com/@Knarfy/featured" },
       { name: "SystemZee", url: "https://www.youtube.com/@syszee/featured" },
     ],
@@ -36,7 +36,7 @@ const bookmarks = [
   {
     title: "Video Games",
     links: [
-      { name: "Classic Minecraft", url: "https://classic.minecraft.net" },
+      { name: "Classic-Minecraft", url: "https://classic.minecraft.net" },
       { name: "Roblox", url: "https://roblox.com" },
       { name: "Diep.io", url: "https://diep.io" },
       { name: "SmashKarts", url: "https://smashkarts.io" },
